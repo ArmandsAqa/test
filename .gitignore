@@ -1,0 +1,7 @@
+.gitignore
+src/main/resources/
+src/test/resources/
+target/generated-sources/
+target/generated-test-sources/
+allure-results
+build
